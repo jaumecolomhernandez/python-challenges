@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 10 - WHAT ARE YOU LOOKING AT?
+# Link -> http://www.pythonchallenge.com/pc/return/bull.html
+
 # # When clicking on the cow we get the following text: `a = [1, 11, 21, 1211, 111221,`
 # # Thinking about this you see that this looks kinda like a run-length encoding, so 
 # # we built one for the sake of the challenge...

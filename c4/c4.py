@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 4 - FOLLOW THE CHAIN
+# Link -> http://www.pythonchallenge.com/pc/def/linkedlist.php
+
 # # When we click the image it takes us to http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=12345 
 # # and we see and the next nothing is 44827. Then if you replace 12345 for the 44827 you 
 # # get a new page with a different number. So here clearly we have to keep going until we 

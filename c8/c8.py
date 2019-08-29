@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 8 - WORKING HARD?
+# Link -> http://www.pythonchallenge.com/pc/def/integrity.html
+
 # # When clicking the bee in the photo a prompt appears asking for user and 
 # # password. And reading the source we see a user and password in a weird format...
 

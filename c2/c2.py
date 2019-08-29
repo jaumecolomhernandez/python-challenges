@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 2 - OCR
+# Link -> http://www.pythonchallenge.com/pc/def/ocr.html
+
 # # Inspecting the source code we see that there is a huge string of strange symbols 
 # # and some letters. First step is to get that in a var.
 from urllib.request import urlopen

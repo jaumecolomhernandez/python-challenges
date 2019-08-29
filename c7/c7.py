@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 7 - SMARTLY
+# Link -> http://www.pythonchallenge.com/pc/def/oxygen.html
+
 # # In this challenge the first that comes to mind is to read the grayscale values 
 # # from the middle line and decode it as ascii and see what we get.
 # # Doing a bit of analysis with any image processing software we see that the squares are

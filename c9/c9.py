@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 9 - CONNECT THE DOTS
+# Link -> http://www.pythonchallenge.com/pc/return/good.html
+
 # # In this challenge the author is messing with you... The first thought is to connect the
 # # dots in the image and see what you get, then you get nothing. Next you check the source 
 # # code and see two arrays and try to match in anyway to the image, this is also incorrect 

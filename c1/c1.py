@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 0 - WHAT ABOUT MAKING TRANS?
+# Link -> http://www.pythonchallenge.com/pc/def/map.html
+
 input_string = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
 
 # # We realize that there's a 2 character difference between the 

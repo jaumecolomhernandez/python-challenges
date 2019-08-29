@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 12 - DEALING EVIL
+# Link -> http://www.pythonchallenge.com/pc/return/evil.html
+
 # # This is the hardest challenge in my opinion, the frustration level was hilarius, anyway
 # # we got it done. 
 # # The first trick is to realize that there are multiple photos, because the photo in the 

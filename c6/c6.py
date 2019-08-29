@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 6 - NOW THERE ARE PAIRS
+# Link -> http://www.pythonchallenge.com/pc/def/channel.html
+
 # # The first idea is to change the url ending for .zip, so it downloads a zip.
 import urllib.request 
 urllib.request.urlretrieve("http://www.pythonchallenge.com/pc/def/channel.zip", "channel.zip")

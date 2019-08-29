@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# CHALLENGE 3 - RE
+# Link -> http://www.pythonchallenge.com/pc/def/equality.html
+
 # # Looking at see source code we see something similar to the previous challenge, 
 # # a huge string in the comments. First step get that in a var.
 
